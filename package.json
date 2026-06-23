@@ -1,0 +1,15 @@
+{
+  "name": "automated-todos-template",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Template for a human-in-the-loop Kanban that turns authorized transcripts into reviewable task candidates.",
+  "type": "module",
+  "scripts": {
+    "check": "node scripts/check-template.mjs",
+    "ingest:dry-run": "echo \"TODO: wire transcript pickup dry run for your deployment\"",
+    "ingest": "echo \"TODO: wire transcript pickup and task extraction for your deployment\"",
+    "backup:create": "echo \"TODO: call your deployed /api/backups endpoint\""
+  },
+  "license": "MIT"
+}
+

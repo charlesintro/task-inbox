@@ -1,4 +1,4 @@
-# Automated To-do's Template
+# Task Inbox Template
 
 A human-in-the-loop Kanban for turning authorized meeting transcripts and other
 work context into reviewable task candidates.
@@ -9,7 +9,7 @@ deployment-specific secrets.
 
 ## What This Is
 
-Automated To-do's is an operating pattern:
+Task Inbox is an operating pattern:
 
 1. Collect authorized work context, such as Google Meet notes transcripts.
 2. Ask a model provider to extract durable shared task candidates.
@@ -80,4 +80,3 @@ This repository should stay generic:
 - No real tokens, OAuth secrets, or database URLs.
 - No company-specific project names.
 - No assumptions that every deployer uses the same model provider.
-

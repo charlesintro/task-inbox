@@ -4,7 +4,7 @@ Use this prompt with Codex, Claude, or another local coding agent after you have
 created the Google, Vercel, Neon, and model-provider accounts.
 
 ```text
-Set up this Automated To-do's human-in-the-loop Kanban for my organization.
+Set up this Task Inbox human-in-the-loop Kanban for my organization.
 
 Rules:
 - Do not print secrets.
@@ -34,4 +34,3 @@ Tasks:
 9. Run one write pass into Automated only after I approve.
 10. Show me the board URL and the automation-status checks.
 ```
-

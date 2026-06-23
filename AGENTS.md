@@ -1,4 +1,4 @@
-# Automated To-do's Template Agent Guide
+# Task Inbox Template Agent Guide
 
 ## Current Goal
 
@@ -41,4 +41,3 @@ npm run check
 - Never print secret values.
 - Never add sample transcripts that came from a real meeting.
 - Before publication, run the checklist in `docs/PUBLICATION_CHECKLIST.md`.
-

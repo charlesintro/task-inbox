@@ -1,5 +1,5 @@
 {
-  "name": "automated-todos-template",
+  "name": "task-inbox",
   "version": "0.1.0",
   "private": true,
   "description": "Template for a human-in-the-loop Kanban that turns authorized transcripts into reviewable task candidates.",
@@ -12,4 +12,3 @@
   },
   "license": "MIT"
 }
-
